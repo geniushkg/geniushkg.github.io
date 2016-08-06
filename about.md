@@ -5,8 +5,7 @@ layout: page
 tags: about
 ---
 
-This Jekyll theme was crafted with <3 by [John Otander](http://johnotander.com)
-([@4lpine](https://twitter.com/4lpine)).
+
 
 Checkout the [Github repository](https://github.com/johnotander/pixyll) to download it,
 request a feature, report a bug, or contribute. It's free, and open source
@@ -14,7 +13,7 @@ request a feature, report a bug, or contribute. It's free, and open source
 
 Thanks to the following:
 
-* [BASSCSS](http://basscss.com)
-* [Jekyll](http://jekyllrb.com)
-* [Refills](http://refills.bourbon.io/)
-* [Type Scale](http://type-scale.com/)
+* [Github](https://github.com/geniushkg)
+* [LinkedIn](https://www.linkedin.com/in/geniushkg)
+* [Resume](https://goo.gl/Jzm4eU)
+* [Playstore](https://play.google.com/store/apps/developer?id=Infinite+Shiv+Technologies)
