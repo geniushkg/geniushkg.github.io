@@ -1,5 +1,5 @@
 ---
-title: Pixyll
+title: Hardik Goswami
 timezone: UTC
 collections:
   posts:
@@ -8,12 +8,12 @@ collections:
   uploads:
     title: Uploads
     output: true
-email: your_email@example.com
-author: John Otander
-description: A simple, beautiful theme for Jekyll that emphasizes content rather than
-  aesthetic fluff.
+email: contact@hardikgoswami.com
+author: Hardik Goswami
+description: Software Engineering blog , codes , gist and tutorials with 
+explanation generally on android / python ML
 baseurl: ''
-url: http://pixyll.com
+url: http://hardikgoswami.com
 date_format: "%b %-d, %Y"
 google_verification: 
 google_analytics: 
