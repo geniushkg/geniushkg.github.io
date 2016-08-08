@@ -10,7 +10,8 @@ collections:
     output: true
 email: contact@hardikgoswami.com
 author: Hardik Goswami
-description: Software Engineering blog , codes , gist and tutorials with explanation generally on android / python ML
+description: Software Engineering blog , codes , gist and tutorials with explanation
+  generally on android / python ML
 baseurl: ''
 url: http://hardikgoswami.com
 date_format: "%b %-d, %Y"
