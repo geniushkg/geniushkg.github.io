@@ -1,15 +1,13 @@
 ---
-title: About Pixyll
+title: About
 permalink: "/about/"
 layout: page
 tags: about
 ---
 
-Checkout the [Github repository](https://github.com/johnotander/pixyll) to download it,
-request a feature, report a bug, or contribute. It's free, and open source
-([MIT](http://opensource.org/licenses/MIT)).
+Summary of blog aka author
 
-Thanks to the following:
+Following links to my webpresence:
 
 * [Github](https://github.com/geniushkg)
 * [LinkedIn](https://www.linkedin.com/in/geniushkg)
