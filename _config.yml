@@ -8,7 +8,7 @@ collections:
   uploads:
     title: Uploads
     output: true
-email: contact@hardikgoswami.com
+email: geniushkg@gmail.com
 author: Hardik Goswami
 description: Software Engineering blog , codes , gist and tutorials with explanation
   generally on android / python ML
@@ -16,7 +16,7 @@ baseurl: ''
 url: http://hardikgoswami.com
 date_format: "%b %-d, %Y"
 google_verification: 
-google_analytics: 
+google_analytics: UA-82328245-1
 google_tag_manager: 
 bing_verification: 
 animated: false
@@ -31,14 +31,14 @@ disqus_shortname:
 facebook_comments: 
 facebook_appid: 
 facebook_comments_number: 10
-github_username: 
+github_username: geniushkg
 bitbucket_username: 
 stackoverflow_id: 
 twitter_username: 
-skype_username: 
+skype_username: goswami.hardik.k
 steam_nickname: 
 google_plus_id: 
-linkedin_username: 
+linkedin_username: geniushkg
 angellist_username: 
 medium_id: 
 bitcoin_url: 
@@ -48,7 +48,7 @@ show_sharing_icons: false
 share_facebook: false
 share_twitter: false
 share_googleplus: false
-share_linkedin: false
+share_linkedin: true
 share_digg: false
 share_tumblr: false
 share_reddit: false
