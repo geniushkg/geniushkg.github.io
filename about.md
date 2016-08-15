@@ -5,7 +5,9 @@ layout: page
 tags: about
 ---
 
-Summary of blog aka author
+Conventional wisdom and practices yield conventional results. If that is good enough for you , I believe innovation.
+
+Mad about aircrafts and uncontrollable desire for superpowers , yet down to earth , sane enough and always willing to uplift humanity with help of technology.
 
 Following links to my webpresence:
 
