@@ -99,5 +99,6 @@ sass:
 gems:
 - jekyll-paginate
 - jekyll-sitemap
+- jekyll-admin
 exclude:
 - vendor
