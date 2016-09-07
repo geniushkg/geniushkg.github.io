@@ -1,5 +1,7 @@
 ---
 title: Better Commit Message template
+layout: post
+permalink: "/better-git-commit-template"
 ---
 
 # How to write Git Commit Messages
