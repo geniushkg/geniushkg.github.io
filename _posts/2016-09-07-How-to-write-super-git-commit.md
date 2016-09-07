@@ -1,5 +1,6 @@
 ---
 title: Better Commit Message template
+date: 2016-09-07 00:00:00 Z
 ---
 
 #How to write Git Commit Messages
