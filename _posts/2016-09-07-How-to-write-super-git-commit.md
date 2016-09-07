@@ -1,7 +1,8 @@
 ---
 title: Better Commit Message template
-layout: post
+date: 2016-09-07 00:00:00 Z
 permalink: "/better-git-commit-template"
+layout: post
 ---
 
 # How to write Git Commit Messages
