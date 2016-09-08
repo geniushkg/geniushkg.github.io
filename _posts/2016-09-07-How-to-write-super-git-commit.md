@@ -1,13 +1,13 @@
 ---
-title: Better Commit Message template
+title: ## Better Commit Message template
 layout: post
 permalink: "/better-git-commit-template"
 ---
 
-# How to write Git Commit Messages
+## How to write Git Commit Messages
 
 
-## Message Structure
+### Message Structure
 
 - A commit messages consists of three distinct parts separated by a blank line: the **title**, an optional **body** and an optional **footer**.
 
