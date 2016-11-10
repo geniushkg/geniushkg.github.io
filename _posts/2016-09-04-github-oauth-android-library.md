@@ -1,6 +1,6 @@
 ---
 title: Github Oauth Android library
-date: '2016-09-04 00:00:00 +0000'
+date: 2016-09-04 00:00:00 Z
 permalink: "/android/using_oauthLibGithub_to_authenticate_user_on_android"
 layout: post
 ---
