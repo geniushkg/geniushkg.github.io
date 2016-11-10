@@ -5,14 +5,14 @@ permalink: "/android/using_oauthLibGithub_to_authenticate_user_on_android"
 layout: post
 ---
 
-Purpose : 
+Android library to authenticate user via Oauth 2.0 Github as provider.
 
 To simplify the process of authentication using OAuth 2.0 protocol in Android mobile app development, this is primarily build to be used with github as authentication provider to that user can login to host app using github credentials.
 
 
 Installation : 
 
-> compile 'com.github.geniushkg:oauthLibGithub:1.0.1'
+`compile 'com.github.geniushkg:oauthLibGithub:1.0.1`
 
 Add  to manifest file :
 
@@ -24,11 +24,14 @@ Add  to manifest file :
 							
 							
 ## Github Auth Flow
-Initialise new Auth instance with credentials</br>
-1. Client id : you get it from your github profile by creating new app.</br>
-2. Client Secret : same as above.</br>
-3. NextActivity : Thats your activity you want launch after user gets authenticated.</br>
-4. Context : you  can use context variable from place where initiate the process that is getActivity() from fragment or getapplicationcontext() from activity.
+Initialise new Auth instance with credentials
+
+Sample initialization given below , you can also set debug(true) for inspection  purpose.
+
+Suppose you want to start authentication process by button click then initialise as below,
+Important that you provide next activity where to redirect after login successfull.
+
+
 
 **Sample initialization :**
 
@@ -60,9 +63,9 @@ Initialise new Auth instance with credentials</br>
 Execute will launch a new activity with webview and user token will be stored in shared preference
 
 
-Shared preference name : ** github_prefs **
+Shared preference name : **github_prefs**
 
-String in preference :** oauth_token **
+String in preference :**oauth_token**
 
 		// Sample to read logged in user oauth token
         public static final String PREFERENCE = "github_prefs";
