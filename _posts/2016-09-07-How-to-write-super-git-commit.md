@@ -1,14 +1,14 @@
 ---
 title: Better Commit Message template
-date: 2016-09-07 00:00:00 Z
+date: '2016-09-07 00:00:00 +0000'
 permalink: "/better-git-commit-template"
 layout: post
 ---
 
-## How to write Git Commit Messages
+How to write Git Commit Messages
 
 
-### Message Structure
+**Message Structure**
 
 - A commit messages consists of three distinct parts separated by a blank line: the **title**, an optional **body** and an optional **footer**.
 
