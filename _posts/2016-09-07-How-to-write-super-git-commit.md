@@ -1,6 +1,6 @@
 ---
 title: Better Commit Message template
-date: '2016-09-07 00:00:00 +0000'
+date: 2016-09-07 00:00:00 Z
 permalink: "/better-git-commit-template"
 layout: post
 ---
