@@ -1,8 +1,8 @@
 ---
 title: Android Performance optimize checklist
+date: 2016-12-17 05:55:40 Z
 permalink: "/how-to-optimize-android-apps"
 layout: post
-date: '2016-12-17 05:55:40'
 ---
 
 ##                      **How to build high performance Android apps ?**
