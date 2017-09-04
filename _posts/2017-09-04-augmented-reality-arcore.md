@@ -25,13 +25,13 @@ In layman’s term , just imagine you can also see the real world with extra sen
 
 * Furniture  : 
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/80trFLZXy5Q/0.jpg)](https://www.youtube.com/watch?v=80trFLZXy5Q)
+<iframe width="420" height="315" src="http://www.youtube.com/embed/80trFLZXy5Q" frameborder="0" allowfullscreen></iframe>
 
 
 * Food :
 
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/qnytO7_0q_M/0.jpg)](https://www.youtube.com/watch?v=qnytO7_0q_M)
+<iframe width="420" height="315" src="http://www.youtube.com/embed/qnytO7_0q_M" frameborder="0" allowfullscreen></iframe>
  
 	
 **ARkit** : 
@@ -48,9 +48,8 @@ Its SDK introduced recently by google that helps you  add Augmented reality laye
 
 	Here’s Bugdroid  on my Table :
 	
-	
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/tOpcDRFJKYA/0.jpg)](https://www.youtube.com/watch?v=tOpcDRFJKYA) 
 
+<iframe width="420" height="315" src="http://www.youtube.com/embed/tOpcDRFJKYA" frameborder="0" allowfullscreen></iframe>
 
 **How Does it works ?**
 
