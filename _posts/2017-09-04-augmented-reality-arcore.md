@@ -1,6 +1,5 @@
 ---
 title: Augmented Reality &#58 improved perception with camera lenses
-
 date: 2017-09-04 00:00:00 Z
 permalink: "/augmented-reality-arcore"
 layout: post
