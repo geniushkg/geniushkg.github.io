@@ -12,11 +12,12 @@ Improved preception with AR.
 
 A technology that superimposes a computer-generated image on a user's view of the real world, thus providing a composite view.
 
-In layman’s term, just imagine you can also see the real world with extra sensors. Your eyes plus thermal imaging capabilities or visualising furniture set-up of empty floor space, can be used in almost all fields where it is difficult to physically place items to check how it looks. Perception becomes less laborious. 
+In layman’s term, just imagine you can also see the real world with extra sensors. Your eyes plus thermal imaging capabilities, or visualising the furniture set-up in an empty space, can be used in almost all fields where it is difficult to physically place items to check how they look. As a result, perception becomes less labourious. 
 
 **What can AR do?** 
 
 It changes the way
+
 * you shop furniture 
 * renovate your house 
 * select paint color and combination for walls
@@ -41,7 +42,9 @@ This is Apple’s latest SDK introduced a month ago; it helps the developer add 
 
 **ARCore**: 
 
-Google had its own answer to Apple's ARkit. Named ARcore, this SDK helps you add an Augmented Reality layer to your camera application. Let's get our hands dirty playing with SDK.
+Google has its own answer to Apple's ARkit. Named ARcore, this SDK helps you add an Augmented Reality layer to your camera application. 
+
+Let's get our hands dirty playing with SDK.
 
 1. Download SDK from GitHub 
 2. Add dependencies and jump into Android Studio 
@@ -56,18 +59,18 @@ ARcore SDK is a single dependency that adds a layer for motion-sensing and learn
 
 **How does it works?**
 
-In a computer vision field, motion-sensing  is a bunch of algorithms that co-ordinate video stream input into cartesian graph which detects position relatively to the object.
+In a computer vision field, motion-sensing  is a bunch of algorithms that coordinates video stream input into the Cartesian graph which detects the position relatively to the object.
 
-The sample shown above:
+The sample shown above
 
 1. detects a flat surface using **Opengls libraries**
 2. plots and learns environment as and when camera angle changes
 3. superimposes pre-defined object on co-ordinates
 
 
-ARcore is still in preview (**Alpha** stage), but being far more promising to take over the future, it is estimated to bring about drastic changes in the E-commerce industry.
+ARcore is still in preview (**Alpha** stage), but being far more promising to take over the future, it is estimated to bring about drastic changes in the Ecommerce industry.
 
-The key takeaway is User Experience; simulations of actual products help in making decisions right in the comfort of your home, without the tedium of commuting to the store.      
+The key takeaway is User Experience. Simulations of actual products help in making decisions right in the comfort of your home, without the tedium of commuting to the store.      
 
 
 
