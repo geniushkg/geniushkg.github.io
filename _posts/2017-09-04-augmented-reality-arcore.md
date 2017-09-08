@@ -10,18 +10,19 @@ Improved preception with AR.
 
 **Augmented Reality** : 
 
-A technology that superimposes a computer-generated image on a user's view of the real world,thus providing a composite view.
+A technology that superimposes a computer-generated image on a user's view of the real world, thus providing a composite view.
 
-In layman’s term , just imagine you can also see the real world with extra sensor’s. Your eyes plus thermal imaging capabilities or visualising furniture set up of empty Office, it can be used in almost all fields where it’s difficult to physically place item to check how it looks that can be perceived  without any labour.
+In layman’s term, just imagine you can also see the real world with extra sensors. Your eyes plus thermal imaging capabilities or visualising furniture set-up of empty floor space, can be used in almost all fields where it is difficult to physically place items to check how it looks. Perception becomes less laborious. 
 
-**What  Can AR Do ?** 
+**What  can AR do?** 
 
-* Changes the way you shop furniture 
-* Renovate your house 
-* Select paint color combination for walls
-* Or even see your food before it’s prepared , like pizza on empty dish customised for you.
+It changes the way
+* you shop furniture 
+* renovate your house 
+* select paint color and combination for walls
+* or even see your food before it is prepared, like pizza on an empty dish customised for you
 
-**Lets see it in Action** : 
+**Let's see it in Action** : 
 
 * Furniture  : 
 
@@ -36,35 +37,35 @@ In layman’s term , just imagine you can also see the real world with extra sen
 	
 **ARkit** : 
 
-Its Apple’s latest sdk introduced a month ago, that helps developer add augmented reality capablities, as shown in video above.
+This is Apple’s latest SDK introduced a month ago; it helps the developer add augmented reality capablities, as shown in video above.
 
 **ARCore** : 
 
-Its SDK introduced recently by google that helps you  add Augmented reality layer to your camera application. Now lets gets hand dirty playing with SDK.
+Google had its own answer to Apple's ARkit. Named ARcore, this SDK helps you add an Augmented Reality layer to your camera application. Let's get our hands dirty playing with SDK.
 
-1. Download sdk from github 
-2. Add dependencies and jump into Android studio 
-3. Voila , there is no third step, only arcore sdk is single dependency that add layer for motion sensing and learning environment around it. 
+1. Download SDK from GitHub 
+2. Add dependencies and jump into Android Studio 
+3. Voila, there is no third step, only ARcore SDK is a single dependency that adds a layer for motion-sensing and learning the environment around it. 
 
-	Here’s Bugdroid  on my Table :
+	Here’s Bugdroid  on my desk:
 	
 
 <iframe width="420" height="315" src="http://www.youtube.com/embed/tOpcDRFJKYA" frameborder="0" allowfullscreen></iframe>
 
-**How Does it works ?**
+**How does it works ?**
 
-In computer vision field motion sensing  is bunch of algorithm that co-ordinate video stream input into cartesian graph which detects position relatively to the object.
+In a computer vision field, motion-sensing  is a bunch of algorithms that co-ordinate video stream input into cartesian graph which detects position relatively to the object.
 
-The sample shown above does. 
+The sample shown above:
 
-1. Detects a flat surface using **Opengls libraries**.
-2. Plots and learns environment as and when camera angle changes.
-3. Superimpose pre-defined object on co-ordinates
+1. detects a flat surface using **Opengls libraries**
+2. plots and learns environment as and when camera angle changes
+3. superimposes pre-defined object on co-ordinates
 
 
-Its in preview (**Alpha** stage),but far more promising to take over future, its estimated to bring drastic change in E-commerce industry.
+ARcore is still in preview (**Alpha** stage), but being far more promising to take over the future, it is estimated to bring about drastic changes in the E-commerce industry.
 
-The key take away is user experience, It helps user experience live products just as physical with comfort to sit at home and avoiding nasty commute.    
+The key takeaway is User Experience; simulations of actual products help in making decisions right in the comfort of your home, without the tedium of commuting to the store.      
 
 
 
