@@ -5,7 +5,8 @@ layout: page
 tags: about
 ---
 
-A keen student of the Hatha Yoga philosophy, Hardik is mad about aircraft and confesses to an “uncontrollable desire for superpowers”
+A keen student, trying to understand Yoga philosophy, Hardik is mad about aircraft and confesses to an “uncontrollable desire for superpowers”
+
 Following links to my webpresence:
 
 * [Github](https://github.com/geniushkg)
